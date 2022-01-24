@@ -1,0 +1,8 @@
+C:\Users\julioneto\source\repos\demo\demo\obj\Debug\net48\demo.csproj.AssemblyReference.cache
+C:\Users\julioneto\source\repos\demo\demo\obj\Debug\net48\demo.csproj.SuggestedBindingRedirects.cache
+C:\Users\julioneto\source\repos\demo\demo\obj\Debug\net48\demo.Form1.resources
+C:\Users\julioneto\source\repos\demo\demo\obj\Debug\net48\demo.csproj.GenerateResource.cache
+C:\Users\julioneto\source\repos\demo\demo\obj\Debug\net48\demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julioneto\source\repos\demo\demo\obj\Debug\net48\demo.AssemblyInfoInputs.cache
+C:\Users\julioneto\source\repos\demo\demo\obj\Debug\net48\demo.AssemblyInfo.cs
+C:\Users\julioneto\source\repos\demo\demo\obj\Debug\net48\demo.csproj.CoreCompileInputs.cache

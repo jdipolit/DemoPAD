@@ -1,0 +1,4 @@
+Opened;Número;Caller;Assigned to;Service Level;Short description;Description;Business service;Category;Resolution code;Impact Type;Date/hour impact start;Date/hour impact finish;Assignment group;Resolution notes;State;Porcentagem SLA
+2/12/21 9:19;INC1934234;Splunk Integration Service;;N3;Endpoint;desc HOSTNAME = PAD01 IP = 20.206.141.254;Segurança;Segurança;;;;;Projetos End User;;New;16,76
+2/12/21 9:19;INC1934234;Splunk Integration Service;;N3;Endpoint;desc HOSTNAME = PAD02 IP = 20.206.141.254;Segurança;Segurança;;;;;Projetos End User;;New;16,76
+2/12/21 9:19;INC1934234;Splunk Integration Service;;N3;Endpoint;desc HOSTNAME = PAD03 IP = 20.206.141.254;Segurança;Segurança;;;;;Projetos End User;;New;16,76
